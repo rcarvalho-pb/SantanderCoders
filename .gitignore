@@ -1,4 +1,5 @@
 out
+/.vscode/
 server
 node_modules
 *.vsix
